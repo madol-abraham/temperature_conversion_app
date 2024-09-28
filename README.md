@@ -17,4 +17,4 @@ git clone https://github.com/madol-abraham/temperature_conversion_app.git
 cd temperature_conversion_app
 flutter run
 #The video link is here below
-[https://drive.google.com/file/d/1N9mA-TFpZgnA608HEUYuN5-7Fg2HoNqb/view?usp=sharing](url)
+[video link](https://drive.google.com/file/d/1N9mA-TFpZgnA608HEUYuN5-7Fg2HoNqb/view?usp=sharing)
